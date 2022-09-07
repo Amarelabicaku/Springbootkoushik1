@@ -10,4 +10,7 @@ public class HelloController {
     public String hi(){
         return "hi";
     }
+    @GetMaping("/check)
+               public String check(){
+                   return "Check"
 }
