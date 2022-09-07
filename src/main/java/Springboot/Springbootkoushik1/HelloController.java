@@ -12,5 +12,5 @@ public class HelloController {
     }
     @GetMaping("/check)
                public String check(){
-                   return "Check"
+                   return "Check";
 }
